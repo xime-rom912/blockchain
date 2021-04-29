@@ -1,0 +1,16 @@
+{
+  "name": "blocksheet",
+  "version": "1.0.0",
+  "description": "blocksheet",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ximena Romero",
+  "license": "ISC",
+  "dependencies": {
+    "cript.js": "^1.1.3",
+    "cripto": "^1.0.1",
+    "crypto-js": "^4.0.0"
+  }
+}
